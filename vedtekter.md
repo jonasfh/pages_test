@@ -1,0 +1,4 @@
+vedtekter
+=========
+
+Her er vedtekter
